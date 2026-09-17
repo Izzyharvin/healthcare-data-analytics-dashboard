@@ -1,4 +1,4 @@
-# healthcare-data-analytics-dashboard
+# Healthcare Data Analytics Dashboard
 Prove that I can take a raw dataset, clean it, store/query it with SQL, analyze it with Python, and turn the results into a usable dashboard.
 
 
