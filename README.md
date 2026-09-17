@@ -12,6 +12,10 @@ Step 3 — Create the GitHub Repository. Create something professional such as h
 
 Step 4 — Create the Python Environment. Install Python and create a virtual environment. Learn how pip, requirements.txt, environment variables, and virtual environments work.
 
+# Picture
+<img width="178" height="379" alt="pic1" src="https://github.com/user-attachments/assets/1fd78290-6dcf-4bf9-8240-9622e7899da2" />
+
+
 
 # Phase 2 — Healthcare Dataset
 
